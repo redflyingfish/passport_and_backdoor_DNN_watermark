@@ -1,0 +1,1 @@
+{"wm_config": "configs/cifar10/wm_configs/adi.yaml", "no_cuda": false, "filename": "logs/alexnet_cifar10_v2/1/models/best.pth", "gpu": null, "pretrained_dir": "outputs/cifar10/wm/pretrained/resnet/00000_pretrained"}
